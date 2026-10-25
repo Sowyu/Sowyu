@@ -1,40 +1,18 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="aniko · silly coder girl · she/her" />
-</p>
+```
+ /\_/\
+( o.o )   hi, i'm aniko
+ > ^ <    silly coder girl, she/her
+```
 
-<p align="center">
-  I make native apps, tiny utilities, and things I want to use.
-  <br />
-  Mostly macOS and Android. Sometimes keyboards.
-</p>
+I make native apps and small utilities, mostly for macOS and Android, mostly because I want to use them myself. Sometimes I mess with keyboards.
 
-<p align="center">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-f3c4d5?style=flat-square&amp;logo=swift&amp;logoColor=572d42" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-e1cef5?style=flat-square&amp;logo=kotlin&amp;logoColor=49315f" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-f3c4d5?style=flat-square&amp;logo=python&amp;logoColor=572d42" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-e1cef5?style=flat-square&amp;logo=cplusplus&amp;logoColor=49315f" />
-</p>
+What I'm working on:
 
-### On my workbench
+- [CandyWrapper](https://github.com/Sowyu/CandyWrapper) is a native T3 Code app for macOS.
+- [CandyWrapper-Android](https://github.com/Sowyu/CandyWrapper-Android) is the same idea on Android.
+- [VectorScroll](https://github.com/Sowyu/VectorScroll) gives macOS the vector scrolling Firefox and Windows have.
+- [InstantSpace](https://github.com/Sowyu/InstantSpace) is a menu bar app for switching Spaces instantly.
 
-| Project | What it does |
-| :--- | :--- |
-| [CandyWrapper](https://github.com/Sowyu/CandyWrapper) | A native version of T3 Code. |
-| [CandyWrapper for Android](https://github.com/Sowyu/CandyWrapper-Android) | CandyWrapper on Android. |
-| [VectorScroll](https://github.com/Sowyu/VectorScroll) | Vector scrolling for macOS, similar to Firefox or Windows. |
-| [InstantSpace](https://github.com/Sowyu/InstantSpace) | A lightweight menu bar app for switching macOS Spaces. |
+Smaller stuff: [aLauncher](https://github.com/Sowyu/aLauncher) is my mLauncher fork, [fumo-Nkeyboard](https://github.com/Sowyu/fumo-Nkeyboard) is keyboard tinkering in C++, and [m5-azahi](https://github.com/Sowyu/m5-azahi) is me trying to get Linux running on an M5 Pro.
 
-<details>
-<summary>A few more things</summary>
-
-- [aLauncher](https://github.com/Sowyu/aLauncher), my personal mLauncher fork.
-- [fumo-Nkeyboard](https://github.com/Sowyu/fumo-Nkeyboard), keyboard tinkering in C++.
-- [m5-azahi](https://github.com/Sowyu/m5-azahi), my M5 Pro Linux project.
-
-</details>
-
-<br />
-
-<p align="center">
-  <a href="https://ko-fi.com/anikodev"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Ko--fi-buy%20me%20a%20coffee-f3c4d5?style=flat-square&amp;logo=kofi&amp;logoColor=572d42" /></a>
-</p>
+If any of it helps you out, you can [buy me a coffee](https://ko-fi.com/anikodev).
