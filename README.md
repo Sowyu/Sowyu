@@ -4,7 +4,7 @@
  > ^ <   silly coder girl, she/her
 ```
 
-i make apps i actually want to use. mostly mac and android stuff, sometimes keyboards
+i make apps i actually want to use. mostly mac and android stuff
 
 things im working on:
 
