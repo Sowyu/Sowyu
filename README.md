@@ -15,4 +15,4 @@ things im working on:
 
 also [aLauncher](https://github.com/Sowyu/aLauncher), my mLauncher fork, [fumo-Nkeyboard](https://github.com/Sowyu/fumo-Nkeyboard) for keyboard stuff, and [m5-azahi](https://github.com/Sowyu/m5-azahi) where im trying to get linux on my m5 pro
 
-<p align="center"><a href="https://ko-fi.com/anikodev"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="buy me a coffee on ko-fi"></a></p>
+<p align="center"><a href="https://ko-fi.com/anikodev"><img src="./kofi.svg" alt="buy me a coffee on ko-fi"></a></p>
