@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">aniko</title>
+  <desc id="desc">A pink terminal window with a little ASCII cat. Silly coder girl. She/her.</desc>
+  <rect x="2" y="2" width="996" height="256" rx="16" fill="#f9e5ee" stroke="#d8a5bb" stroke-width="2"/>
+  <path d="M18 3H982Q997 3 997 18V48H3V18Q3 3 18 3Z" fill="#f3c4d5"/>
+  <g fill="#8c506a"><rect x="25" y="21" width="8" height="8"/><rect x="43" y="21" width="8" height="8" opacity=".65"/><rect x="61" y="21" width="8" height="8" opacity=".35"/></g>
+  <text x="500" y="30" fill="#6e3c53" text-anchor="middle" font-family="monospace" font-size="14">Sowyu / README.md</text>
+  <text x="72" y="145" fill="#572d42" font-family="monospace" font-size="72" font-weight="bold" letter-spacing="-4">aniko<tspan fill="#b4698a">_</tspan></text>
+  <text x="77" y="185" fill="#75455d" font-family="monospace" font-size="20">silly coder girl · she/her</text>
+  <g font-family="monospace" font-size="30" fill="#75455d" text-anchor="middle" xml:space="preserve">
+    <text x="790" y="113"> /&#92;_/&#92; </text>
+    <text x="790" y="148">( o.o )</text>
+    <text x="790" y="183"> &gt; ^ &lt; </text>
+  </g>
+  <g fill="#b4698a"><path d="M666 87h7v7h7v7h-7v7h-7v-7h-7v-7h7Z"/><path d="M899 170h6v6h6v6h-6v6h-6v-6h-6v-6h6Z"/></g>
+  <path d="M72 222H928" stroke="#dfb4c7" stroke-width="2" stroke-dasharray="5 7"/>
+</svg>
