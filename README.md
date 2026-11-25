@@ -13,6 +13,6 @@ things im working on:
 - [VectorScroll](https://github.com/Sowyu/VectorScroll) - vector scrolling on macos like firefox and windows have
 - [InstantSpace](https://github.com/Sowyu/InstantSpace) - menu bar app to switch spaces fast
 
-also [aLauncher](https://github.com/Sowyu/aLauncher), my mLauncher fork, [fumo-Nkeyboard](https://github.com/Sowyu/fumo-Nkeyboard) for keyboard stuff, and [m5-azahi](https://github.com/Sowyu/m5-azahi) where im trying to get linux on my m5 pro
+also [aLauncher](https://github.com/Sowyu/aLauncher), my mLauncher fork, [fumo-Nkeyboard](https://github.com/Sowyu/fumo-Nkeyboard) for keyboard stuff, and [m5-azahi](https://github.com/Sowyu/m5-azahi) where im trying to get linux on my m5 pro (not worked on anymore some impressive ppl have already done it)
 
 <p align="center"><a href="https://ko-fi.com/anikodev"><img src="./kofi.svg" alt="buy me a coffee on ko-fi"></a></p>
